@@ -60,6 +60,34 @@
 			<key>imageFile</key>
 			<string>livingRoom1.jpg</string>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>iPhone 5 White</string>
+			<key>enabled</key>
+			<true/>
+			<key>UUID</key>
+			<string>8492E75F-4FD6-469D-B132-043FE94921D8 </string>
+			<key>major</key>
+			<integer>4921</integer>
+			<key>minor</key>
+			<integer>3036</integer>
+			<key>imageFile</key>
+			<string>helixBridge.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>iPhone 6+ Gold</string>
+			<key>enabled</key>
+			<true/>
+			<key>UUID</key>
+			<string>8492E75F-4FD6-469D-B132-043FE94921D8 </string>
+			<key>major</key>
+			<integer>11704</integer>
+			<key>minor</key>
+			<integer>14927</integer>
+			<key>imageFile</key>
+			<string>helixBridge.jpg</string>
+		</dict>
 	</array>
 </dict>
 </plist>

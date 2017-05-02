@@ -20,6 +20,7 @@
 		1CF03A421EB4E21D00846342 /* livingRoom1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CF03A3E1EB4E21D00846342 /* livingRoom1.jpg */; };
 		1CF03A431EB4E21D00846342 /* livingRoom2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CF03A3F1EB4E21D00846342 /* livingRoom2.jpg */; };
 		1CF03A441EB4E21D00846342 /* livingRoom3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CF03A401EB4E21D00846342 /* livingRoom3.jpg */; };
+		1CF03A4C1EB8301C00846342 /* helixBridge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CF03A4B1EB8301C00846342 /* helixBridge.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		1CF03A3E1EB4E21D00846342 /* livingRoom1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = livingRoom1.jpg; path = Images/livingRoom1.jpg; sourceTree = "<group>"; };
 		1CF03A3F1EB4E21D00846342 /* livingRoom2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = livingRoom2.jpg; path = Images/livingRoom2.jpg; sourceTree = "<group>"; };
 		1CF03A401EB4E21D00846342 /* livingRoom3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = livingRoom3.jpg; path = Images/livingRoom3.jpg; sourceTree = "<group>"; };
+		1CF03A4B1EB8301C00846342 /* helixBridge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = helixBridge.jpg; path = Images/helixBridge.jpg; sourceTree = "<group>"; };
 		335E42BBC9E18B56FAD86D96 /* Pods_EmptyRoom.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmptyRoom.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		33D1B5B0B1C09FBE0094F656 /* Pods-EmptyRoom.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmptyRoom.release.xcconfig"; path = "Pods/Target Support Files/Pods-EmptyRoom/Pods-EmptyRoom.release.xcconfig"; sourceTree = "<group>"; };
 		E570D2D3FCF7064938B58C69 /* Pods-EmptyRoom.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmptyRoom.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EmptyRoom/Pods-EmptyRoom.debug.xcconfig"; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				1CF03A3E1EB4E21D00846342 /* livingRoom1.jpg */,
 				1CF03A3F1EB4E21D00846342 /* livingRoom2.jpg */,
 				1CF03A401EB4E21D00846342 /* livingRoom3.jpg */,
+				1CF03A4B1EB8301C00846342 /* helixBridge.jpg */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				1CDCD6201EB42B48003CE4B8 /* Assets.xcassets in Resources */,
 				1CDCD61E1EB42B48003CE4B8 /* Main.storyboard in Resources */,
 				1CF03A441EB4E21D00846342 /* livingRoom3.jpg in Resources */,
+				1CF03A4C1EB8301C00846342 /* helixBridge.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
