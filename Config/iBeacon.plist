@@ -66,7 +66,7 @@
 			<key>enabled</key>
 			<true/>
 			<key>UUID</key>
-			<string>8492E75F-4FD6-469D-B132-043FE94921D8 </string>
+			<string>8492E75F-4FD6-469D-B132-043FE94921D8</string>
 			<key>major</key>
 			<integer>4921</integer>
 			<key>minor</key>
@@ -80,9 +80,9 @@
 			<key>enabled</key>
 			<true/>
 			<key>UUID</key>
-			<string>8492E75F-4FD6-469D-B132-043FE94921D8 </string>
+			<string>8492E75F-4FD6-469D-B132-043FE94921D8</string>
 			<key>major</key>
-			<integer>11704</integer>
+			<real>11704</real>
 			<key>minor</key>
 			<integer>14927</integer>
 			<key>imageFile</key>
